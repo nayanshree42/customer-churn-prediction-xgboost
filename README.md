@@ -81,4 +81,4 @@ joblib
 
 ## 📬 Author
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR_USERNAME)
+**Nayanshree Sanjay Menpale** — [LinkedIn](https://www.linkedin.com/in/nayanshree-ml/) | [GitHub](https://github.com/nayanshree42)
